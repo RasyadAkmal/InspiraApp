@@ -1,0 +1,32 @@
+{
+    "desain": [
+      {
+        "id": 1,
+        "image": "https://d3p0bla3numw14.cloudfront.net/news-content/img/2020/10/02093422/gambar-rumah-minimalis-14.jpg",
+        "nama": "Minimalis",
+        "maker": "Farah Zahirah",
+        "desc": "Desain ini berkonsep minimalis, dengan aksen santai membuat siapapun nyaman berada di dalam rumah dengan konsep ini."
+      },
+      {
+        "id": 2,
+        "image": "https://d3p0bla3numw14.cloudfront.net/news-content/img/2020/10/02094028/gambar-rumah-minimalis-1.jpg",
+        "nama": "Modern",
+        "maker": "Brajaya Kusuma",
+        "desc": "Desain ini berkonsep modern, dengan aksen santai membuat siapapun nyaman berada di dalam rumah dengan konsep ini."
+      },
+      {
+        "id": 3,
+        "image": "https://d3p0bla3numw14.cloudfront.net/news-content/img/2020/10/02094137/gambar-rumah-minimalis-2.jpg",
+        "nama": "Smart Home",
+        "maker": "Ibrahimovic",
+        "desc": "Desain ini berkonsep smart, dengan aksen santai membuat siapapun nyaman berada di dalam rumah dengan konsep ini."
+      },
+      {
+        "id": 4,
+        "image": "https://d3p0bla3numw14.cloudfront.net/news-content/img/2020/10/02094227/gambar-rumah-minimalis-3.jpg",
+        "nama": "Elegant-castle",
+        "maker": "Charlie Van Houten",
+        "desc": "Desain ini berkonsep elegant kuno, dengan aksen santai membuat siapapun nyaman berada di dalam rumah dengan konsep ini."
+      }
+    ]
+}
